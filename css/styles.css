@@ -1,0 +1,27 @@
+/* https://colorhunt.co/palette/226192 */
+
+body{
+  background-color: #e7d9ea;
+
+}
+
+hr{
+  border-color: #16c79a ;
+  border-style: dotted none none;
+  border-width: 10px;
+  height: 0px; /* this makes the hr 0 pixels high */
+  width: 10%;
+}
+
+h1{
+  color: #19456b;
+  text-shadow: 2px 2px 5px #16c79a ;
+}
+
+h3{
+  color: #19456b;
+}
+
+img:hover{
+  background-color: #16c79a;
+}
